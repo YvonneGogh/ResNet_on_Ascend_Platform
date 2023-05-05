@@ -1,0 +1,1 @@
+# ResNet_on_Ascend_Platform
